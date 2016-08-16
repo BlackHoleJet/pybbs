@@ -22,7 +22,7 @@
 
 # Dump of table pybbs_collect
 # ------------------------------------------------------------
-
+use pybbs;
 DROP TABLE IF EXISTS `pybbs_collect`;
 
 CREATE TABLE `pybbs_collect` (
